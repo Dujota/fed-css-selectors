@@ -24,3 +24,9 @@ header{
 .even{
   background-color: grey;
 }
+
+.odd{
+  background-color: black;
+  color: white;
+
+}
