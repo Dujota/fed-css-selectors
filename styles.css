@@ -53,3 +53,11 @@ ul{
 a[title="Bitmaker"]:hover{
   text-decoration: none;
 }
+
+#advanced-selectors ul > li:hover{
+  background-color: yellow;
+}
+
+#advanced-selectors ul > li > a:active{
+  background-color: red;
+}
