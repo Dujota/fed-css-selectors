@@ -42,3 +42,14 @@ header{
   background-color: grey;
   padding 10px;
 }
+
+#advanced-selectors ol > li:nth-child(odd){
+  background-color: green;
+}
+ul{
+  background-color: white;
+}
+
+a[title="Bitmaker"]:hover{
+  text-decoration: none;
+}
