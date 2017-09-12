@@ -20,3 +20,7 @@ header{
 .item{
   border: 1px solid blue;
 }
+
+.even{
+  background-color: grey;
+}
